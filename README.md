@@ -1,16 +1,26 @@
 # Expense Tracker
 
-A personal finance tracker to log income and expenses and monitor your balance.
+## Overview
+A personal finance project to practice state management, calculations, and data persistence in the browser.
 
-## Features
-- Add income and expense transactions with category tags
-- Live balance, total income, and total expense summary cards
-- Transactions sorted by newest first
-- Delete individual transactions or clear all
-- Data persists in localStorage
-
-## How to Run
-Open `index.html` in any browser. No installation needed.
+## Learning Outcomes
+- Model income/expense transactions
+- Calculate totals and running balance
+- Render and update transaction lists dynamically
 
 ## Tech Stack
-HTML · CSS · JavaScript · localStorage
+- HTML
+- CSS
+- JavaScript
+- localStorage
+
+## Run Locally
+1. Open `index.html` in a browser.
+
+## Common Mistakes
+- Treating numeric values as strings during calculations
+- Not validating empty or invalid transaction input
+
+## Next Improvements
+- Add monthly analytics charts
+- Add category-wise filtering and reports
