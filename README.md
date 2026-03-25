@@ -1,12 +1,10 @@
 # Expense Tracker
 
-## Overview
-A personal finance project to practice state management, calculations, and data persistence in the browser.
+![Project](https://img.shields.io/badge/Project-Frontend-0ea5e9)
+![Domain](https://img.shields.io/badge/Domain-Personal%20Finance-16a34a)
 
-## Learning Outcomes
-- Model income/expense transactions
-- Calculate totals and running balance
-- Render and update transaction lists dynamically
+## Overview
+Personal finance project to practice state management, calculations, and data persistence.
 
 ## Tech Stack
 - HTML
@@ -16,6 +14,11 @@ A personal finance project to practice state management, calculations, and data 
 
 ## Run Locally
 1. Open `index.html` in a browser.
+
+## Learning Outcomes
+- Model income/expense transactions
+- Calculate totals and running balance
+- Render and update transaction lists dynamically
 
 ## Common Mistakes
 - Treating numeric values as strings during calculations
