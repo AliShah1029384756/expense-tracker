@@ -4,7 +4,7 @@
 ![Domain](https://img.shields.io/badge/Domain-Personal%20Finance-16a34a)
 
 ## 🎨 Live Demo
-Open [`index.html`](index.html) in your browser to track your expenses.
+Open [Live Demo](https://htmlpreview.github.io/?https://github.com/AliShah1029384756/expense-tracker/blob/main/index.html) in your browser to track your expenses.
 
 ## Overview
 Personal finance project to practice state management, calculations, and data persistence.
